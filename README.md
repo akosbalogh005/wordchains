@@ -1,7 +1,7 @@
 # wordchains
 
 ## Intro
-Solves word-chain puzzles. In Go and Pyton
+Solves word-chain puzzles. In Go and Python
 [See details here](http://codekata.com/kata/kata19-word-chains/)
 
 
